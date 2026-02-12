@@ -1,0 +1,16 @@
+### OS 관련 (맥, 윈도우 등) ###
+.DS_Store
+Thumbs.db
+
+### 빌드 결과물 (컴파일된 파일들) ###
+build/
+out/
+
+### IDE 설정 파일 (인텔리제이 등) ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
+### Gradle 캐시 및 로컬 설정 ###
+.gradle/
